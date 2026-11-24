@@ -1,0 +1,19 @@
+{
+  "id": 89,
+  "name": "Muk",
+  "genus": "Sludge Pokémon",
+  "description": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+  "height": 1.2,
+  "weight": 30.0,
+  "types": [
+    "poison"
+  ],
+  "stats": [
+    105,
+    105,
+    75,
+    65,
+    100,
+    50
+  ]
+}

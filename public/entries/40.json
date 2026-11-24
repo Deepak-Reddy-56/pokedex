@@ -1,0 +1,20 @@
+{
+  "id": 40,
+  "name": "Wigglytuff",
+  "genus": "Balloon Pokémon",
+  "description": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+  "height": 1.0,
+  "weight": 12.0,
+  "types": [
+    "normal",
+    "fairy"
+  ],
+  "stats": [
+    140,
+    70,
+    45,
+    85,
+    50,
+    45
+  ]
+}

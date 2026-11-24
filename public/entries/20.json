@@ -1,0 +1,19 @@
+{
+  "id": 20,
+  "name": "Raticate",
+  "genus": "Mouse Pokémon",
+  "description": "It uses its whis­ kers to maintain its balance. It apparently slows down if they are cut off.",
+  "height": 0.7,
+  "weight": 18.5,
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    55,
+    81,
+    60,
+    50,
+    70,
+    97
+  ]
+}

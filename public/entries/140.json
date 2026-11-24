@@ -1,0 +1,20 @@
+{
+  "id": 140,
+  "name": "Kabuto",
+  "genus": "Shellfish Pokémon",
+  "description": "A Pokémon that was resurrected from a fossil found in what was once the ocean floor eons ago.",
+  "height": 0.5,
+  "weight": 11.5,
+  "types": [
+    "rock",
+    "water"
+  ],
+  "stats": [
+    30,
+    80,
+    90,
+    55,
+    45,
+    55
+  ]
+}

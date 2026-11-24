@@ -1,0 +1,20 @@
+{
+  "id": 48,
+  "name": "Venonat",
+  "genus": "Insect Pokémon",
+  "description": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
+  "height": 1.0,
+  "weight": 30.0,
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "stats": [
+    60,
+    55,
+    50,
+    40,
+    55,
+    45
+  ]
+}

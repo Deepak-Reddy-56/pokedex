@@ -1,0 +1,20 @@
+{
+  "id": 46,
+  "name": "Paras",
+  "genus": "Mushroom Pokémon",
+  "description": "Burrows to suck tree roots. The mushrooms on its back grow by draw­ ing nutrients from the bug host.",
+  "height": 0.3,
+  "weight": 5.4,
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "stats": [
+    35,
+    70,
+    55,
+    45,
+    55,
+    25
+  ]
+}

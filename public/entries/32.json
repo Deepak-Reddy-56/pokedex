@@ -1,0 +1,19 @@
+{
+  "id": 32,
+  "name": "Nidoran♂",
+  "genus": "Poison Pin Pokémon",
+  "description": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.",
+  "height": 0.5,
+  "weight": 9.0,
+  "types": [
+    "poison"
+  ],
+  "stats": [
+    46,
+    57,
+    40,
+    40,
+    40,
+    50
+  ]
+}

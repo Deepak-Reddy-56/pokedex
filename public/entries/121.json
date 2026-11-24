@@ -1,0 +1,20 @@
+{
+  "id": 121,
+  "name": "Starmie",
+  "genus": "Mysterious Pokémon",
+  "description": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.",
+  "height": 1.1,
+  "weight": 80.0,
+  "types": [
+    "water",
+    "psychic"
+  ],
+  "stats": [
+    60,
+    75,
+    85,
+    100,
+    85,
+    115
+  ]
+}

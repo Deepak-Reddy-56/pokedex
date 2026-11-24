@@ -1,0 +1,20 @@
+{
+  "id": 102,
+  "name": "Exeggcute",
+  "genus": "Egg Pokémon",
+  "description": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+  "height": 0.4,
+  "weight": 2.5,
+  "types": [
+    "grass",
+    "psychic"
+  ],
+  "stats": [
+    60,
+    40,
+    80,
+    60,
+    45,
+    40
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 76,
+  "name": "Golem",
+  "genus": "Megaton Pokémon",
+  "description": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.",
+  "height": 1.4,
+  "weight": 300.0,
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "stats": [
+    80,
+    120,
+    130,
+    55,
+    65,
+    45
+  ]
+}

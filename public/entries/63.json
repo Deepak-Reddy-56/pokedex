@@ -1,0 +1,19 @@
+{
+  "id": 63,
+  "name": "Abra",
+  "genus": "Psi Pokémon",
+  "description": "Using its ability to read minds, it will identify impending danger and TELEPORT to safety.",
+  "height": 0.9,
+  "weight": 19.5,
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    25,
+    20,
+    15,
+    105,
+    55,
+    90
+  ]
+}

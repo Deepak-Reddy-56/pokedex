@@ -1,0 +1,20 @@
+{
+  "id": 21,
+  "name": "Spearow",
+  "genus": "Tiny Bird Pokémon",
+  "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+  "height": 0.3,
+  "weight": 2.0,
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    40,
+    60,
+    30,
+    31,
+    31,
+    70
+  ]
+}

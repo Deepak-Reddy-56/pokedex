@@ -1,0 +1,20 @@
+{
+  "id": 131,
+  "name": "Lapras",
+  "genus": "Transport Pokémon",
+  "description": "A Pokémon that has been over­ hunted almost to extinction. It can ferry people across the water.",
+  "height": 2.5,
+  "weight": 220.0,
+  "types": [
+    "water",
+    "ice"
+  ],
+  "stats": [
+    130,
+    85,
+    80,
+    85,
+    95,
+    60
+  ]
+}

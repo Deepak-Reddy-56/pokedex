@@ -1,0 +1,19 @@
+{
+  "id": 127,
+  "name": "Pinsir",
+  "genus": "Stag Beetle Pokémon",
+  "description": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard.",
+  "height": 1.5,
+  "weight": 55.0,
+  "types": [
+    "bug"
+  ],
+  "stats": [
+    65,
+    125,
+    100,
+    55,
+    70,
+    85
+  ]
+}

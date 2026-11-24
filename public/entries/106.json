@@ -1,0 +1,19 @@
+{
+  "id": 106,
+  "name": "Hitmonlee",
+  "genus": "Kicking Pokémon",
+  "description": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.",
+  "height": 1.5,
+  "weight": 49.8,
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    50,
+    120,
+    53,
+    35,
+    110,
+    87
+  ]
+}

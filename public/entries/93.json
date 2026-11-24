@@ -1,0 +1,20 @@
+{
+  "id": 93,
+  "name": "Haunter",
+  "genus": "Gas Pokémon",
+  "description": "Because of its ability to slip through block walls, it is said to be from an­ other dimension.",
+  "height": 1.6,
+  "weight": 0.1,
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "stats": [
+    45,
+    50,
+    45,
+    115,
+    55,
+    95
+  ]
+}

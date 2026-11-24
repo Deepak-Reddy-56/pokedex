@@ -1,0 +1,20 @@
+{
+  "id": 84,
+  "name": "Doduo",
+  "genus": "Twin Bird Pokémon",
+  "description": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.",
+  "height": 1.4,
+  "weight": 39.2,
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    35,
+    85,
+    45,
+    35,
+    35,
+    75
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 100,
+  "name": "Voltorb",
+  "genus": "Ball Pokémon",
+  "description": "Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.",
+  "height": 0.5,
+  "weight": 10.4,
+  "types": [
+    "electric"
+  ],
+  "stats": [
+    40,
+    30,
+    50,
+    55,
+    55,
+    100
+  ]
+}

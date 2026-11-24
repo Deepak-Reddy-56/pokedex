@@ -1,0 +1,20 @@
+{
+  "id": 81,
+  "name": "Magnemite",
+  "genus": "Magnet Pokémon",
+  "description": "Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.",
+  "height": 0.3,
+  "weight": 6.0,
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "stats": [
+    25,
+    35,
+    70,
+    95,
+    55,
+    45
+  ]
+}

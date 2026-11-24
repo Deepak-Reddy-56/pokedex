@@ -1,0 +1,19 @@
+{
+  "id": 150,
+  "name": "Mewtwo",
+  "genus": "Genetic Pokémon",
+  "description": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.",
+  "height": 2.0,
+  "weight": 122.0,
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    106,
+    110,
+    90,
+    154,
+    90,
+    130
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 77,
+  "name": "Ponyta",
+  "genus": "Fire Horse Pokémon",
+  "description": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.",
+  "height": 1.0,
+  "weight": 30.0,
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    50,
+    85,
+    55,
+    65,
+    65,
+    90
+  ]
+}

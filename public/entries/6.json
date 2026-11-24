@@ -1,0 +1,20 @@
+{
+  "id": 6,
+  "name": "Charizard",
+  "genus": "Flame Pokémon",
+  "description": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.",
+  "height": 1.7,
+  "weight": 90.5,
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "stats": [
+    78,
+    84,
+    78,
+    109,
+    85,
+    100
+  ]
+}

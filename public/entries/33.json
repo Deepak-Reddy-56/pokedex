@@ -1,0 +1,19 @@
+{
+  "id": 33,
+  "name": "Nidorino",
+  "genus": "Poison Pin Pokémon",
+  "description": "An aggressive Pokémon that is quick to attack. The horn on its head secretes a powerful venom.",
+  "height": 0.9,
+  "weight": 19.5,
+  "types": [
+    "poison"
+  ],
+  "stats": [
+    61,
+    72,
+    57,
+    55,
+    55,
+    65
+  ]
+}

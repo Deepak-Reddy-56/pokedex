@@ -1,0 +1,19 @@
+{
+  "id": 7,
+  "name": "Squirtle",
+  "genus": "Tiny Turtle Pokémon",
+  "description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+  "height": 0.5,
+  "weight": 9.0,
+  "types": [
+    "water"
+  ],
+  "stats": [
+    44,
+    48,
+    65,
+    50,
+    64,
+    43
+  ]
+}

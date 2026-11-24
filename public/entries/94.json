@@ -1,0 +1,20 @@
+{
+  "id": 94,
+  "name": "Gengar",
+  "genus": "Shadow Pokémon",
+  "description": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
+  "height": 1.5,
+  "weight": 40.5,
+  "types": [
+    "ghost",
+    "poison"
+  ],
+  "stats": [
+    60,
+    65,
+    60,
+    130,
+    75,
+    110
+  ]
+}

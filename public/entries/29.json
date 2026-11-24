@@ -1,0 +1,19 @@
+{
+  "id": 29,
+  "name": "Nidoran♀",
+  "genus": "Poison Pin Pokémon",
+  "description": "Although small, its venomous barbs render this Pokémon dangerous. The female has smaller horns.",
+  "height": 0.4,
+  "weight": 7.0,
+  "types": [
+    "poison"
+  ],
+  "stats": [
+    55,
+    47,
+    52,
+    40,
+    40,
+    41
+  ]
+}

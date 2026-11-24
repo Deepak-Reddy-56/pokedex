@@ -1,0 +1,20 @@
+{
+  "id": 45,
+  "name": "Vileplume",
+  "genus": "Flower Pokémon",
+  "description": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+  "height": 1.2,
+  "weight": 18.6,
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "stats": [
+    75,
+    80,
+    85,
+    110,
+    90,
+    50
+  ]
+}

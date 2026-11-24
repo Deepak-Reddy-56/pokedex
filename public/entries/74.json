@@ -1,0 +1,20 @@
+{
+  "id": 74,
+  "name": "Geodude",
+  "genus": "Rock Pokémon",
+  "description": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+  "height": 0.4,
+  "weight": 20.0,
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "stats": [
+    40,
+    80,
+    100,
+    30,
+    30,
+    20
+  ]
+}

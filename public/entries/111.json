@@ -1,0 +1,20 @@
+{
+  "id": 111,
+  "name": "Rhyhorn",
+  "genus": "Spikes Pokémon",
+  "description": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.",
+  "height": 1.0,
+  "weight": 115.0,
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "stats": [
+    80,
+    85,
+    95,
+    30,
+    30,
+    25
+  ]
+}

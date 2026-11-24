@@ -1,0 +1,19 @@
+{
+  "id": 56,
+  "name": "Mankey",
+  "genus": "Pig Monkey Pokémon",
+  "description": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant.",
+  "height": 0.5,
+  "weight": 28.0,
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    40,
+    80,
+    35,
+    35,
+    45,
+    70
+  ]
+}

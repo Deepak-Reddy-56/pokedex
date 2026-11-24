@@ -1,0 +1,20 @@
+{
+  "id": 83,
+  "name": "Farfetch’d",
+  "genus": "Wild Duck Pokémon",
+  "description": "The sprig of green onions it holds is its weapon. It is used much like a metal sword.",
+  "height": 0.8,
+  "weight": 15.0,
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    52,
+    90,
+    55,
+    58,
+    62,
+    60
+  ]
+}

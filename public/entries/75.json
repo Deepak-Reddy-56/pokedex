@@ -1,0 +1,20 @@
+{
+  "id": 75,
+  "name": "Graveler",
+  "genus": "Rock Pokémon",
+  "description": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+  "height": 1.0,
+  "weight": 105.0,
+  "types": [
+    "rock",
+    "ground"
+  ],
+  "stats": [
+    55,
+    95,
+    115,
+    45,
+    45,
+    35
+  ]
+}

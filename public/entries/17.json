@@ -1,0 +1,20 @@
+{
+  "id": 17,
+  "name": "Pidgeotto",
+  "genus": "Bird Pokémon",
+  "description": "Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.",
+  "height": 1.1,
+  "weight": 30.0,
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    63,
+    60,
+    55,
+    50,
+    50,
+    71
+  ]
+}

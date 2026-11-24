@@ -1,0 +1,20 @@
+{
+  "id": 47,
+  "name": "Parasect",
+  "genus": "Mushroom Pokémon",
+  "description": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+  "height": 1.0,
+  "weight": 29.5,
+  "types": [
+    "bug",
+    "grass"
+  ],
+  "stats": [
+    60,
+    95,
+    80,
+    60,
+    80,
+    30
+  ]
+}

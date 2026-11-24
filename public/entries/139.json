@@ -1,0 +1,20 @@
+{
+  "id": 139,
+  "name": "Omastar",
+  "genus": "Spiral Pokémon",
+  "description": "A prehistoric Pokémon that died out when its heavy shell made it impossible to catch prey.",
+  "height": 1.0,
+  "weight": 35.0,
+  "types": [
+    "rock",
+    "water"
+  ],
+  "stats": [
+    70,
+    60,
+    125,
+    115,
+    70,
+    55
+  ]
+}

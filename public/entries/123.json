@@ -1,0 +1,20 @@
+{
+  "id": 123,
+  "name": "Scyther",
+  "genus": "Mantis Pokémon",
+  "description": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+  "height": 1.5,
+  "weight": 56.0,
+  "types": [
+    "bug",
+    "flying"
+  ],
+  "stats": [
+    70,
+    110,
+    80,
+    55,
+    80,
+    105
+  ]
+}

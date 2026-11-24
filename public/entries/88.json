@@ -1,0 +1,19 @@
+{
+  "id": 88,
+  "name": "Grimer",
+  "genus": "Sludge Pokémon",
+  "description": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.",
+  "height": 0.9,
+  "weight": 30.0,
+  "types": [
+    "poison"
+  ],
+  "stats": [
+    80,
+    80,
+    50,
+    40,
+    50,
+    25
+  ]
+}

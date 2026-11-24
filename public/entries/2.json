@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "name": "Ivysaur",
+  "genus": "Seed Pokémon",
+  "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+  "height": 1.0,
+  "weight": 13.0,
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "stats": [
+    60,
+    62,
+    63,
+    80,
+    80,
+    60
+  ]
+}

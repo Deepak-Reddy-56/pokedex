@@ -1,0 +1,19 @@
+{
+  "id": 105,
+  "name": "Marowak",
+  "genus": "Bone Keeper Pokémon",
+  "description": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.",
+  "height": 1.0,
+  "weight": 45.0,
+  "types": [
+    "ground"
+  ],
+  "stats": [
+    60,
+    80,
+    110,
+    50,
+    80,
+    45
+  ]
+}

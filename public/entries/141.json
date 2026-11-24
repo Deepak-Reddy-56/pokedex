@@ -1,0 +1,20 @@
+{
+  "id": 141,
+  "name": "Kabutops",
+  "genus": "Shellfish Pokémon",
+  "description": "Its sleek shape is perfect for swim­ ming. It slashes prey with its claws and drains the body fluids.",
+  "height": 1.3,
+  "weight": 40.5,
+  "types": [
+    "rock",
+    "water"
+  ],
+  "stats": [
+    60,
+    115,
+    105,
+    65,
+    70,
+    80
+  ]
+}

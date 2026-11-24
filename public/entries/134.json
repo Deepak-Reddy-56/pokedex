@@ -1,0 +1,19 @@
+{
+  "id": 134,
+  "name": "Vaporeon",
+  "genus": "Bubble Jet Pokémon",
+  "description": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.",
+  "height": 1.0,
+  "weight": 29.0,
+  "types": [
+    "water"
+  ],
+  "stats": [
+    130,
+    65,
+    60,
+    110,
+    95,
+    65
+  ]
+}

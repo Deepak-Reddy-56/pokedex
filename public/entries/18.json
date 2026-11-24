@@ -1,0 +1,20 @@
+{
+  "id": 18,
+  "name": "Pidgeot",
+  "genus": "Bird Pokémon",
+  "description": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP.",
+  "height": 1.5,
+  "weight": 39.5,
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    83,
+    80,
+    75,
+    70,
+    70,
+    101
+  ]
+}

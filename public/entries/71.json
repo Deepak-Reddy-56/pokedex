@@ -1,0 +1,20 @@
+{
+  "id": 71,
+  "name": "Victreebel",
+  "genus": "Flycatcher Pokémon",
+  "description": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+  "height": 1.7,
+  "weight": 15.5,
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "stats": [
+    80,
+    105,
+    65,
+    100,
+    70,
+    70
+  ]
+}

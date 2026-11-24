@@ -1,0 +1,20 @@
+{
+  "id": 146,
+  "name": "Moltres",
+  "genus": "Flame Pokémon",
+  "description": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames.",
+  "height": 2.0,
+  "weight": 60.0,
+  "types": [
+    "fire",
+    "flying"
+  ],
+  "stats": [
+    90,
+    100,
+    90,
+    125,
+    85,
+    90
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 116,
+  "name": "Horsea",
+  "genus": "Dragon Pokémon",
+  "description": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+  "height": 0.4,
+  "weight": 8.0,
+  "types": [
+    "water"
+  ],
+  "stats": [
+    30,
+    40,
+    70,
+    70,
+    25,
+    60
+  ]
+}

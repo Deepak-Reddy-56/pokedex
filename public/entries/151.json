@@ -1,0 +1,19 @@
+{
+  "id": 151,
+  "name": "Mew",
+  "genus": "New Species Pokémon",
+  "description": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+  "height": 0.4,
+  "weight": 4.0,
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    100,
+    100,
+    100,
+    100,
+    100,
+    100
+  ]
+}

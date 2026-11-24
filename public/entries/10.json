@@ -1,0 +1,19 @@
+{
+  "id": 10,
+  "name": "Caterpie",
+  "genus": "Worm Pokémon",
+  "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+  "height": 0.3,
+  "weight": 2.9,
+  "types": [
+    "bug"
+  ],
+  "stats": [
+    45,
+    30,
+    35,
+    20,
+    20,
+    45
+  ]
+}

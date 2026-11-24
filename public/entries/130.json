@@ -1,0 +1,20 @@
+{
+  "id": 130,
+  "name": "Gyarados",
+  "genus": "Atrocious Pokémon",
+  "description": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+  "height": 6.5,
+  "weight": 235.0,
+  "types": [
+    "water",
+    "flying"
+  ],
+  "stats": [
+    95,
+    125,
+    79,
+    60,
+    100,
+    81
+  ]
+}

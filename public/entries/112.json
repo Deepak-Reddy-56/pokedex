@@ -1,0 +1,20 @@
+{
+  "id": 112,
+  "name": "Rhydon",
+  "genus": "Drill Pokémon",
+  "description": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.",
+  "height": 1.9,
+  "weight": 120.0,
+  "types": [
+    "ground",
+    "rock"
+  ],
+  "stats": [
+    105,
+    130,
+    120,
+    45,
+    45,
+    40
+  ]
+}

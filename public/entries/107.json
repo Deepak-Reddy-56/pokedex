@@ -1,0 +1,19 @@
+{
+  "id": 107,
+  "name": "Hitmonchan",
+  "genus": "Punching Pokémon",
+  "description": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.",
+  "height": 1.4,
+  "weight": 50.2,
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    50,
+    105,
+    79,
+    35,
+    110,
+    76
+  ]
+}

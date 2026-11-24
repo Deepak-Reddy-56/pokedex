@@ -1,0 +1,20 @@
+{
+  "id": 149,
+  "name": "Dragonite",
+  "genus": "Dragon Pokémon",
+  "description": "An extremely rarely seen marine Pokémon. Its intelligence is said to match that of humans.",
+  "height": 2.2,
+  "weight": 210.0,
+  "types": [
+    "dragon",
+    "flying"
+  ],
+  "stats": [
+    91,
+    134,
+    95,
+    100,
+    100,
+    80
+  ]
+}

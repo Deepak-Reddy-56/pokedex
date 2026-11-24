@@ -1,0 +1,20 @@
+{
+  "id": 34,
+  "name": "Nidoking",
+  "genus": "Drill Pokémon",
+  "description": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones.",
+  "height": 1.4,
+  "weight": 62.0,
+  "types": [
+    "poison",
+    "ground"
+  ],
+  "stats": [
+    81,
+    102,
+    77,
+    85,
+    75,
+    85
+  ]
+}

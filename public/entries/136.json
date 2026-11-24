@@ -1,0 +1,19 @@
+{
+  "id": 136,
+  "name": "Flareon",
+  "genus": "Flame Pokémon",
+  "description": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+  "height": 0.9,
+  "weight": 25.0,
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    65,
+    130,
+    60,
+    95,
+    110,
+    65
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 87,
+  "name": "Dewgong",
+  "genus": "Sea Lion Pokémon",
+  "description": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
+  "height": 1.7,
+  "weight": 120.0,
+  "types": [
+    "water",
+    "ice"
+  ],
+  "stats": [
+    90,
+    70,
+    80,
+    70,
+    95,
+    70
+  ]
+}

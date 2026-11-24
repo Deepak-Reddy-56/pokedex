@@ -1,0 +1,19 @@
+{
+  "id": 108,
+  "name": "Lickitung",
+  "genus": "Licking Pokémon",
+  "description": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies.",
+  "height": 1.2,
+  "weight": 65.5,
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    90,
+    55,
+    75,
+    60,
+    75,
+    30
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 132,
+  "name": "Ditto",
+  "genus": "Transform Pokémon",
+  "description": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy.",
+  "height": 0.3,
+  "weight": 4.0,
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    48,
+    48,
+    48,
+    48,
+    48,
+    48
+  ]
+}

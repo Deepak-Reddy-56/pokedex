@@ -1,0 +1,19 @@
+{
+  "id": 109,
+  "name": "Koffing",
+  "genus": "Poison Gas Pokémon",
+  "description": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.",
+  "height": 0.6,
+  "weight": 1.0,
+  "types": [
+    "poison"
+  ],
+  "stats": [
+    40,
+    65,
+    95,
+    60,
+    45,
+    35
+  ]
+}

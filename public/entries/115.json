@@ -1,0 +1,19 @@
+{
+  "id": 115,
+  "name": "Kangaskhan",
+  "genus": "Parent Pokémon",
+  "description": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old.",
+  "height": 2.2,
+  "weight": 80.0,
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    105,
+    95,
+    80,
+    40,
+    80,
+    90
+  ]
+}

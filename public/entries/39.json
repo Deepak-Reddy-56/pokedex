@@ -1,0 +1,20 @@
+{
+  "id": 39,
+  "name": "Jigglypuff",
+  "genus": "Balloon Pokémon",
+  "description": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+  "height": 0.5,
+  "weight": 5.5,
+  "types": [
+    "normal",
+    "fairy"
+  ],
+  "stats": [
+    115,
+    45,
+    20,
+    45,
+    25,
+    20
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 50,
+  "name": "Diglett",
+  "genus": "Mole Pokémon",
+  "description": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.",
+  "height": 0.2,
+  "weight": 0.8,
+  "types": [
+    "ground"
+  ],
+  "stats": [
+    10,
+    55,
+    25,
+    35,
+    45,
+    95
+  ]
+}

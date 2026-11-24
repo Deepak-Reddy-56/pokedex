@@ -1,0 +1,20 @@
+{
+  "id": 122,
+  "name": "Mr. Mime",
+  "genus": "Barrier Pokémon",
+  "description": "If interrupted while it is miming, it will slap around the offender with its broad hands.",
+  "height": 1.3,
+  "weight": 54.5,
+  "types": [
+    "psychic",
+    "fairy"
+  ],
+  "stats": [
+    40,
+    45,
+    65,
+    100,
+    120,
+    90
+  ]
+}

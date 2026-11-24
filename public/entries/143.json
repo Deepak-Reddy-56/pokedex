@@ -1,0 +1,19 @@
+{
+  "id": 143,
+  "name": "Snorlax",
+  "genus": "Sleeping Pokémon",
+  "description": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+  "height": 2.1,
+  "weight": 460.0,
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    160,
+    110,
+    65,
+    65,
+    110,
+    30
+  ]
+}

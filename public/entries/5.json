@@ -1,0 +1,19 @@
+{
+  "id": 5,
+  "name": "Charmeleon",
+  "genus": "Flame Pokémon",
+  "description": "When it swings its burning tail, it elevates the temperature to unbearably high levels.",
+  "height": 1.1,
+  "weight": 19.0,
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    58,
+    64,
+    58,
+    80,
+    65,
+    80
+  ]
+}

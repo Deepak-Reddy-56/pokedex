@@ -1,0 +1,19 @@
+{
+  "id": 98,
+  "name": "Krabby",
+  "genus": "River Crab Pokémon",
+  "description": "Its pincers are not only powerful weapons, they are used for balance when walking sideways.",
+  "height": 0.4,
+  "weight": 6.5,
+  "types": [
+    "water"
+  ],
+  "stats": [
+    30,
+    105,
+    90,
+    25,
+    25,
+    50
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 19,
+  "name": "Rattata",
+  "genus": "Mouse Pokémon",
+  "description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+  "height": 0.3,
+  "weight": 3.5,
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    30,
+    56,
+    35,
+    25,
+    35,
+    72
+  ]
+}

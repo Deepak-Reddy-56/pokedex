@@ -1,0 +1,19 @@
+{
+  "id": 78,
+  "name": "Rapidash",
+  "genus": "Fire Horse Pokémon",
+  "description": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.",
+  "height": 1.7,
+  "weight": 95.0,
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    65,
+    100,
+    70,
+    80,
+    80,
+    105
+  ]
+}

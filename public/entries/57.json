@@ -1,0 +1,19 @@
+{
+  "id": 57,
+  "name": "Primeape",
+  "genus": "Pig Monkey Pokémon",
+  "description": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.",
+  "height": 1.0,
+  "weight": 32.0,
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    65,
+    105,
+    60,
+    60,
+    70,
+    95
+  ]
+}

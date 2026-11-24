@@ -1,0 +1,19 @@
+{
+  "id": 96,
+  "name": "Drowzee",
+  "genus": "Hypnosis Pokémon",
+  "description": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.",
+  "height": 1.0,
+  "weight": 32.4,
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    60,
+    48,
+    45,
+    43,
+    90,
+    42
+  ]
+}

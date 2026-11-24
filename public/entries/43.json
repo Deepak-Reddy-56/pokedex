@@ -1,0 +1,20 @@
+{
+  "id": 43,
+  "name": "Oddish",
+  "genus": "Weed Pokémon",
+  "description": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+  "height": 0.5,
+  "weight": 5.4,
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "stats": [
+    45,
+    50,
+    55,
+    75,
+    65,
+    30
+  ]
+}

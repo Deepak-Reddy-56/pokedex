@@ -1,0 +1,20 @@
+{
+  "id": 124,
+  "name": "Jynx",
+  "genus": "Human Shape Pokémon",
+  "description": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it.",
+  "height": 1.4,
+  "weight": 40.6,
+  "types": [
+    "ice",
+    "psychic"
+  ],
+  "stats": [
+    65,
+    50,
+    35,
+    115,
+    95,
+    95
+  ]
+}

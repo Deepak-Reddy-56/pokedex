@@ -1,0 +1,20 @@
+{
+  "id": 144,
+  "name": "Articuno",
+  "genus": "Freeze Pokémon",
+  "description": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+  "height": 1.7,
+  "weight": 55.4,
+  "types": [
+    "ice",
+    "flying"
+  ],
+  "stats": [
+    90,
+    85,
+    100,
+    95,
+    125,
+    85
+  ]
+}

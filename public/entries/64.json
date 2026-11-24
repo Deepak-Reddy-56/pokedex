@@ -1,0 +1,19 @@
+{
+  "id": 64,
+  "name": "Kadabra",
+  "genus": "Psi Pokémon",
+  "description": "It emits special alpha waves from its body that induce headaches just by being close by.",
+  "height": 1.3,
+  "weight": 56.5,
+  "types": [
+    "psychic"
+  ],
+  "stats": [
+    40,
+    35,
+    30,
+    120,
+    70,
+    105
+  ]
+}

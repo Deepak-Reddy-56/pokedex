@@ -1,0 +1,19 @@
+{
+  "id": 27,
+  "name": "Sandshrew",
+  "genus": "Mouse Pokémon",
+  "description": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food.",
+  "height": 0.6,
+  "weight": 12.0,
+  "types": [
+    "ground"
+  ],
+  "stats": [
+    50,
+    75,
+    85,
+    20,
+    30,
+    40
+  ]
+}

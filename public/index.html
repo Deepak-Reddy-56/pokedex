@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#202a24">
+<title>PocketDex · Kanto Field Pokédex</title>
+<link rel="stylesheet" href="style.css">
+<script defer src="app.js"></script>
+</head>
+<body>
+<header><div class="wrap brand"><i class="ball" aria-hidden="true"></i>PocketDex <span>FIELD SYSTEM</span></div></header>
+<main class="wrap">
+<div class="heading"><div><span class="eyebrow">KANTO REGION &nbsp;/&nbsp; GEN I</span><h1>Field Pokédex<span>.</span></h1></div><span class="edition">◆ &nbsp; KANTO EDITION</span></div>
+<div class="console">
+<section class="viewer" aria-label="Selected Pokémon">
+<div class="panelhead"><b><i class="lamp"></i> FIELD VIEW</b><span>LCD–01</span></div>
+<div class="bezel"><div class="land"><span id="scene-id">No. 026</span><span class="reticle tl"></span><span class="reticle br"></span><img id="portrait" src="sprites/26.png" alt="Raichu"></div></div>
+<div class="namebar"><div><small id="genus">Mouse Pokémon</small><h2 id="name">Raichu</h2></div><div id="types"></div></div>
+<div class="tabs" aria-label="Entry information"><button id="overview" aria-pressed="true">Overview</button><button id="stats" aria-pressed="false">Base stats</button></div>
+<div id="details"></div>
+</section>
+<section class="index"><div class="panelhead"><b>SPECIES INDEX</b><span>001–151</span></div>
+<label class="search"><i aria-hidden="true"></i><input id="search" type="search" aria-label="Search by name or number" placeholder="Search name or number…"></label>
+<div id="list" aria-label="Pokémon entries"></div>
+<p class="indexfoot" id="count">Loading index…</p></section>
+</div>
+<footer><div><span class="lamp"></span> <span id="status" role="status">Starting field system…</span></div><div class="nav"><button id="prev" aria-label="Previous Pokémon">◀</button><button id="next" aria-label="Next Pokémon">▶</button> Browse entries</div></footer>
+<button id="retry" hidden>Retry lookup</button>
+</main></body></html>

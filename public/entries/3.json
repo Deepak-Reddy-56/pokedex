@@ -1,0 +1,20 @@
+{
+  "id": 3,
+  "name": "Venusaur",
+  "genus": "Seed Pokémon",
+  "description": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+  "height": 2.0,
+  "weight": 100.0,
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "stats": [
+    80,
+    82,
+    83,
+    100,
+    100,
+    80
+  ]
+}

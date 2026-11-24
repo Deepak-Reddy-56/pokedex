@@ -1,0 +1,19 @@
+{
+  "id": 60,
+  "name": "Poliwag",
+  "genus": "Tadpole Pokémon",
+  "description": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.",
+  "height": 0.6,
+  "weight": 12.4,
+  "types": [
+    "water"
+  ],
+  "stats": [
+    40,
+    50,
+    40,
+    40,
+    40,
+    90
+  ]
+}

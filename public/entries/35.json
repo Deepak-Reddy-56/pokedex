@@ -1,0 +1,19 @@
+{
+  "id": 35,
+  "name": "Clefairy",
+  "genus": "Fairy Pokémon",
+  "description": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+  "height": 0.6,
+  "weight": 7.5,
+  "types": [
+    "fairy"
+  ],
+  "stats": [
+    70,
+    45,
+    48,
+    60,
+    65,
+    35
+  ]
+}

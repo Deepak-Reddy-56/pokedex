@@ -1,0 +1,20 @@
+{
+  "id": 69,
+  "name": "Bellsprout",
+  "genus": "Flower Pokémon",
+  "description": "A carnivorous Pokémon that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+  "height": 0.7,
+  "weight": 4.0,
+  "types": [
+    "grass",
+    "poison"
+  ],
+  "stats": [
+    50,
+    75,
+    35,
+    70,
+    30,
+    40
+  ]
+}

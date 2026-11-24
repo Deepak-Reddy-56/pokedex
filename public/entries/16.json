@@ -1,0 +1,20 @@
+{
+  "id": 16,
+  "name": "Pidgey",
+  "genus": "Tiny Bird Pokémon",
+  "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+  "height": 0.3,
+  "weight": 1.8,
+  "types": [
+    "normal",
+    "flying"
+  ],
+  "stats": [
+    40,
+    45,
+    40,
+    35,
+    35,
+    56
+  ]
+}

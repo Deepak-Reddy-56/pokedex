@@ -1,0 +1,20 @@
+{
+  "id": 14,
+  "name": "Kakuna",
+  "genus": "Cocoon Pokémon",
+  "description": "Almost incapable of moving, this Pokémon can only harden its shell to protect itself from predators.",
+  "height": 0.6,
+  "weight": 10.0,
+  "types": [
+    "bug",
+    "poison"
+  ],
+  "stats": [
+    45,
+    25,
+    50,
+    25,
+    25,
+    35
+  ]
+}

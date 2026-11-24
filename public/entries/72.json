@@ -1,0 +1,20 @@
+{
+  "id": 72,
+  "name": "Tentacool",
+  "genus": "Jellyfish Pokémon",
+  "description": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.",
+  "height": 0.9,
+  "weight": 45.5,
+  "types": [
+    "water",
+    "poison"
+  ],
+  "stats": [
+    40,
+    40,
+    35,
+    50,
+    100,
+    70
+  ]
+}

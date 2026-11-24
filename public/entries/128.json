@@ -1,0 +1,19 @@
+{
+  "id": 128,
+  "name": "Tauros",
+  "genus": "Wild Bull Pokémon",
+  "description": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+  "height": 1.4,
+  "weight": 88.4,
+  "types": [
+    "normal"
+  ],
+  "stats": [
+    75,
+    100,
+    95,
+    40,
+    70,
+    110
+  ]
+}

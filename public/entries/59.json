@@ -1,0 +1,19 @@
+{
+  "id": 59,
+  "name": "Arcanine",
+  "genus": "Legendary Pokémon",
+  "description": "A Pokémon that has been admired since the past for its beauty. It runs agilely as if on wings.",
+  "height": 1.9,
+  "weight": 155.0,
+  "types": [
+    "fire"
+  ],
+  "stats": [
+    90,
+    110,
+    80,
+    100,
+    80,
+    95
+  ]
+}

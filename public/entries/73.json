@@ -1,0 +1,20 @@
+{
+  "id": 73,
+  "name": "Tentacruel",
+  "genus": "Jellyfish Pokémon",
+  "description": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+  "height": 1.6,
+  "weight": 55.0,
+  "types": [
+    "water",
+    "poison"
+  ],
+  "stats": [
+    80,
+    70,
+    65,
+    80,
+    120,
+    100
+  ]
+}

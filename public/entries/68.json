@@ -1,0 +1,19 @@
+{
+  "id": 68,
+  "name": "Machamp",
+  "genus": "Superpower Pokémon",
+  "description": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.",
+  "height": 1.6,
+  "weight": 130.0,
+  "types": [
+    "fighting"
+  ],
+  "stats": [
+    90,
+    130,
+    80,
+    65,
+    85,
+    55
+  ]
+}

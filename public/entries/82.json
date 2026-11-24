@@ -1,0 +1,20 @@
+{
+  "id": 82,
+  "name": "Magneton",
+  "genus": "Magnet Pokémon",
+  "description": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.",
+  "height": 1.0,
+  "weight": 60.0,
+  "types": [
+    "electric",
+    "steel"
+  ],
+  "stats": [
+    50,
+    60,
+    95,
+    120,
+    70,
+    70
+  ]
+}
