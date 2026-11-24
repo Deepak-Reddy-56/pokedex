@@ -176,8 +176,11 @@ h1 {
 }
 
 #portrait {
-  height:100%;
-  width:72%;
+  position:absolute;
+  inset:0;
+  margin:auto;
+  height:74%;
+  width:74%;
   object-fit:contain;
   image-rendering:pixelated;
   filter:drop-shadow(3px 4px #33452255);
@@ -339,7 +342,7 @@ input {
 
 #list {
   height:0;
-  min-height:250px;
+  min-height:0;
   flex:1;
   overflow:auto;
   scrollbar-color:#85917a #d1d5c3;
@@ -373,6 +376,8 @@ input {
 .row img {
   width:44px;
   height:44px;
+  padding:5px;
+  object-fit:contain;
   image-rendering:pixelated;
 }
 
@@ -412,14 +417,14 @@ footer {
 
 .bars {
   display:grid;
-  grid-template-columns:1fr 1fr;
+  grid-template-columns:repeat(2,minmax(0,1fr));
   gap:5px 18px;
   padding-top:12px;
 }
 
 .bars div {
   display:grid;
-  grid-template-columns:60px 1fr 24px;
+  grid-template-columns:58px minmax(0,1fr) 24px;
   align-items:center;
   gap:4px;
   font-size:13px;
@@ -444,7 +449,7 @@ meter {
     grid-template-columns:1fr;
   }
   .index {
-    height:395px;
+    height:345px;
   }
   .viewer,.index {
     padding:14px;
@@ -469,3 +474,25 @@ meter {
     gap:5px 10px;
   }
 }
+
+
+#field-message {
+  position:absolute;
+  margin:0;
+  padding:8px 14px;
+  background:var(--paper);
+  border:1px solid var(--ink);
+  text-align:center;
+}
+.nav button { min-width:44px; min-height:36px; }
+button:disabled { opacity:.5; cursor:default; }
+.tabs button { min-height:36px; }
+@media(max-width:760px) {
+  .metrics { flex-wrap:wrap; gap:4px 18px; }
+  .index { scroll-margin-top:12px; }
+  .viewer { scroll-margin-top:10px; }
+  input { font-size:16px; }
+}
+
+/* Keep the search box in place while an entry loads above it on mobile. */
+#record[hidden] { display:block; visibility:hidden; }

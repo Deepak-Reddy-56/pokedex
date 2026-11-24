@@ -17,8 +17,8 @@ async function readJSON(path) {
 async function start() {
   try {
     catalog = await readJSON("index.json");
+    byId("search").disabled = false;
     filterList();
-    await selectPokemon(26);
   } catch {
     showError("Index unavailable.");
   }
@@ -29,11 +29,18 @@ function showError(message) {
   byId("retry").hidden = false;
 }
 
+function fieldMessage(message) {
+  byId("field-message").textContent = message;
+  byId("field-message").hidden = !message;
+  for (const id of ["portrait", "record", "scene-id"]) byId(id).hidden = Boolean(message);
+}
+
 async function selectPokemon(id) {
   selected = id;
   const request = ++requestNumber;
   byId("status").textContent = "Reading entry " + number(id) + "…";
   byId("retry").hidden = true;
+  fieldMessage("Loading entry…");
   markSelection();
   try {
     const record = await readJSON("entries/" + id + ".json");
@@ -47,10 +54,13 @@ async function selectPokemon(id) {
     byId("portrait").alt = entry.name;
     byId("types").innerHTML = entry.types.map(type =>
       '<span class="type ' + type + '">' + type + '</span>').join("");
+    fieldMessage("");
     renderDetails();
     byId("status").textContent = "Entry " + number(id) + " loaded";
   } catch {
-    if (request === requestNumber) showError("Could not load entry " + number(id) + ".");
+    if (request !== requestNumber) return;
+    fieldMessage("Entry unavailable");
+    showError("Could not load entry " + number(id) + ".");
   }
 }
 
@@ -84,16 +94,37 @@ function markSelection() {
   }
 }
 
+function searchName(name) {
+  return name.toLowerCase().replace(/♀/g, "f").replace(/♂/g, "m").replace(/[.’'\s-]/g, "");
+}
+
 function filterList() {
-  const query = byId("search").value.trim().toLowerCase().replace(/^#/, "");
-  visible = catalog.filter(p => p.name.toLowerCase().includes(query) || number(p.id).includes(query));
+  const query = byId("search").value.trim();
+  const numeric = /^#?\s*\d+$/.test(query);
+  const name = searchName(query);
+  visible = catalog.filter(p => {
+    if (!query) return true;
+    if (numeric) return p.id === Number(query.replace("#", ""));
+    return name && searchName(p.name).includes(name);
+  });
+  const exact = visible.find(p => searchName(p.name) === name);
   byId("list").innerHTML = visible.map(p =>
     '<button class="row" data-id="' + p.id + '"><img loading="lazy" alt="" src="sprites/' +
     p.id + '.png"><small>#' + number(p.id) + '</small>' + p.name + '</button>').join("") ||
     "<p>No matching Pokémon.</p>";
   byId("count").textContent = visible.length + " / " + catalog.length + " ENTRIES";
-  byId("prev").disabled = byId("next").disabled = visible.length === 0;
-  markSelection();
+  byId("prev").disabled = byId("next").disabled = visible.length < 2;
+  if (!visible.length) {
+    ++requestNumber;
+    fieldMessage("No matching Pokémon");
+    byId("status").textContent = "Try another name or number";
+    byId("retry").hidden = true;
+    return;
+  }
+
+  const match = exact || visible.find(p => p.id === selected) || visible[0];
+  if (match.id !== selected || byId("record").hidden || !entry) selectPokemon(match.id);
+  else markSelection();
 }
 
 function browse(step) {
@@ -102,12 +133,29 @@ function browse(step) {
   const next = current < 0 ? (step > 0 ? 0 : visible.length - 1) :
     (current + step + visible.length) % visible.length;
   selectPokemon(visible[next].id);
+  revealEntry();
+}
+
+function revealEntry() {
+  if (window.matchMedia("(max-width: 760px)").matches) {
+    document.querySelector(".viewer").scrollIntoView({block: "start"});
+  }
 }
 
 byId("search").addEventListener("input", filterList);
+byId("search").addEventListener("keydown", event => {
+  if (event.key === "Enter" && visible.length) {
+    event.preventDefault();
+    byId("search").blur();
+    revealEntry();
+  }
+});
 byId("list").addEventListener("click", event => {
   const button = event.target.closest("button");
-  if (button) selectPokemon(Number(button.dataset.id));
+  if (button) {
+    selectPokemon(Number(button.dataset.id));
+    revealEntry();
+  }
 });
 for (const name of ["overview", "stats"]) {
   byId(name).onclick = () => {

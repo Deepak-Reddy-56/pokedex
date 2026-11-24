@@ -15,13 +15,13 @@
 <div class="console">
 <section class="viewer" aria-label="Selected Pokémon">
 <div class="panelhead"><b><i class="lamp"></i> FIELD VIEW</b><span>LCD–01</span></div>
-<div class="bezel"><div class="land"><span id="scene-id">No. 026</span><span class="reticle tl"></span><span class="reticle br"></span><img id="portrait" src="sprites/26.png" alt="Raichu"></div></div>
-<div class="namebar"><div><small id="genus">Mouse Pokémon</small><h2 id="name">Raichu</h2></div><div id="types"></div></div>
+<div class="bezel"><div class="land"><span id="scene-id">No. 026</span><span class="reticle tl"></span><span class="reticle br"></span><img id="portrait" src="sprites/26.png" alt="Raichu"><p id="field-message" hidden></p></div></div>
+<div id="record"><div class="namebar"><div><small id="genus">Mouse Pokémon</small><h2 id="name">Raichu</h2></div><div id="types"></div></div>
 <div class="tabs" aria-label="Entry information"><button id="overview" aria-pressed="true">Overview</button><button id="stats" aria-pressed="false">Base stats</button></div>
-<div id="details"></div>
+<div id="details"></div></div>
 </section>
 <section class="index"><div class="panelhead"><b>SPECIES INDEX</b><span>001–151</span></div>
-<label class="search"><i aria-hidden="true"></i><input id="search" type="search" aria-label="Search by name or number" placeholder="Search name or number…"></label>
+<label class="search"><i aria-hidden="true"></i><input id="search" type="search" enterkeyhint="go" autocomplete="off" disabled aria-label="Search by name or number" placeholder="Search name or number…"></label>
 <div id="list" aria-label="Pokémon entries"></div>
 <p class="indexfoot" id="count">Loading index…</p></section>
 </div>
