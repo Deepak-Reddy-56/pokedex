@@ -496,3 +496,8 @@ button:disabled { opacity:.5; cursor:default; }
 
 /* Keep the search box in place while an entry loads above it on mobile. */
 #record[hidden] { display:block; visibility:hidden; }
+
+/* The field panel sets the console height. The species list scrolls inside it. */
+@media (min-width:761px) {
+  .index { contain:size; }
+}
